@@ -1,0 +1,6 @@
+framework module FZCommitKit {
+  umbrella header "FZCommitKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
